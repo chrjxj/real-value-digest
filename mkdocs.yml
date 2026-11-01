@@ -1,0 +1,28 @@
+site_name: 投资研究与市场周报
+site_url: https://chrjxj.github.io/test-markdown-site/
+repo_url: https://github.com/chrjxj/test-markdown-site
+docs_dir: .build/docs
+site_dir: site
+use_directory_urls: false
+theme:
+  name: material
+  language: zh
+  features:
+    - navigation.top
+    - navigation.sections
+    - search.suggest
+    - search.highlight
+    - content.code.copy
+  palette:
+    primary: indigo
+    accent: teal
+plugins:
+  - search:
+      lang:
+        - zh
+        - en
+markdown_extensions:
+  - tables
+  - fenced_code
+  - toc:
+      permalink: true
