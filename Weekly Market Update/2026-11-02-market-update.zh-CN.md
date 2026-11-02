@@ -183,7 +183,7 @@
 - 第1页：<https://www.bloomberg.com/news/articles/2026-10-31/openai-funding-goal-cut-by-10-billion-as-ai-stocks-dip-ft-says>
 - 第1页：<https://www.bloomberg.com/news/articles/2026-10-30/meta-s-credit-rating-outlook-downgraded-to-negative-by-s-p>
 - 第1页：<https://www.wsj.com/finance/stocks/the-week-the-cracks-in-the-ai-trade-grew-deeper-9e25b20f?mod=itp_wsj>
-- 第1页：<https://www.reuters.com/business/media-telecom/nasdaq-faces-2-trillion-wipeout-october-ai-spending-fears-deepen-2026-10-30/?utm_source=Sailthru&utm_medium=Newsletter&utm_campaign=Weekend-Briefing&utm_term=103126&utm_content=103126&lctg=6913f62df9dbe2a433005cfb&user_email=8a4251f0934a6226501830f26c7f9fca44d7f675ff00db623e90ca5e66ee3b17>
+- 第1页：<https://www.reuters.com/business/media-telecom/nasdaq-faces-2-trillion-wipeout-october-ai-spending-fears-deepen-2026-10-30/>
 - 第2页：<https://www.reuters.com/legal/transactional/anthropic-opens-books-ais-explosive-growth-staggering-costs-2026-10-26/>
 - 第2页：<https://www.barrons.com/articles/anthropic-ipo-filing-ai-stock-6c147284?mod=RTA>
 - 第2页：<https://www.marketwatch.com/story/with-the-anthropic-ipo-the-devil-is-in-the-details-239d571d?mod=newsviewer_click>
