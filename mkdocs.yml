@@ -1,6 +1,6 @@
 site_name: 投资研究与市场周报
-site_url: https://chrjxj.github.io/test-markdown-site/
-repo_url: https://github.com/chrjxj/test-markdown-site
+site_url: https://chrjxj.github.io/real-value-digest/
+repo_url: https://github.com/chrjxj/real-value-digest
 docs_dir: .build/docs
 site_dir: site
 use_directory_urls: false
